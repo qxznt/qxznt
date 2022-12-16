@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on college projects <br>👯 I’m looking for some internships<br>🤝 I’m looking for help with  expert level coding <br>🌱 I’m currently learning JavaScript <br>💬 Ask me about SRM <br>⚡ Fun fact I don't study lol<br>📲      
+🔭 A Front End Developer <br>👯 Looking for Internships<br>🤝 Working as a Tech Associate in Alexa Developers <br>🌱 Under Process Full Stack Developer <br>💬 Ask me about SRM <br>⚡ Fun fact I don't study lol<br>📲      
 
 
 ## 🌐 Socials:
