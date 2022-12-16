@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on college projects <br>👯 I’m looking for some internships<br>🤝 I’m looking for help with  expert level coding <br>🌱 I’m currently learning JavaScript <br>💬 Ask me about SRM <br>⚡ Fun fact I don't study lol<br>📲How to reach me<br>         instagram 📷 https://www.instagram.com/itz.saahil/?igshid=NDRkN2NkYzU%3D<br>         facebook 📘 https://www.facebook.com/sahil.punk.33<br>         linkedin 🔗https://www.linkedin.com/in/sahil-08957a236
+🔭 I’m currently working on college projects <br>👯 I’m looking for some internships<br>🤝 I’m looking for help with  expert level coding <br>🌱 I’m currently learning JavaScript <br>💬 Ask me about SRM <br>⚡ Fun fact I don't study lol<br>📲      
 
 
 ## 🌐 Socials:
